@@ -17,7 +17,9 @@ Encoding Images- Transfer Learning using Inception V3 model.
 Encoded Train and Test images converted to feature vector and saved.
 
 Epochs - 40
-TRAINING ONGOING....
+TRAINING COMPLETED 
+
+TIME TAKEN - APPROX 10 HOURS
 
 
 
