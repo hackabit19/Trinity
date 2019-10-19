@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>Audio</title>
+  </head>
+  <body>
+    <h1>{{message}}</h1>
+    <script>
+     var masg= '{{message}}'
+     var msg = new SpeechSynthesisUtterance(masg);
+     window.speechSynthesis.speak(msg);
+    </script>
+  </body>
+</html>
