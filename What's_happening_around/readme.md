@@ -1,3 +1,5 @@
+Telling the user what's happening around him/her using image captioning.
+
 Dataset used- Flickr8k
 
 Preprocessing part- 
