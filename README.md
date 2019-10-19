@@ -1,5 +1,5 @@
 # Trinity
-VISION - A web app for blind.
+# VISION - A web app for blind.
 
 Have you ever imagined a day without knowing what is going on around you? This is what the blind people go through every single day of their lives. We plan to solve this problem using computer vision and natural language processing. The project will be a web app made using flask framework. This app will be completely voice automated so that the blind people do not have any difficulty using it.
 
